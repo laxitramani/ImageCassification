@@ -1,6 +1,6 @@
-# dog_or_cat
+# Image Classification
 
-A new Flutter project.
+
 
 ## Getting Started
 
