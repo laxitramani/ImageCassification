@@ -1,6 +1,6 @@
 # Image Classification
 
-
+![Preview](https://github.com/laxitramani/ImageCassification/blob/main/assets/images/preview.gif)
 
 ## Getting Started
 
