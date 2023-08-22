@@ -1,5 +1,7 @@
 # Image Classification
 
+### Implement Machine Learning with flutter
+### Detect Dogs and Cats
 ![Preview](https://github.com/laxitramani/ImageCassification/blob/main/assets/images/preview.gif)
 
 ## Getting Started
